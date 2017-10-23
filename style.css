@@ -1,0 +1,98 @@
+#userInput {
+  position: absolute;
+  left: 175px;
+  bottom: 60px;
+}
+
+#submit {
+  position: absolute;
+  left: 165px;
+  bottom: 20px;
+  width: 200px;
+}
+
+#viewList {
+  text-align: center;
+  position: absolute;
+  bottom: -10px;
+  left: 230px;
+}
+
+#viewRec {
+  text-align: center;
+  position: absolute;
+  left: -1000px;
+}
+
+#addHW {
+  position: fixed;
+  bottom: 5px;
+  left: 5px;
+  border-radius: 50%;
+  background-color: #2acef7;
+  width: 50px;
+  height: 50px;
+}
+
+#plusSign {
+  font-size: 50px;
+  position: fixed;
+  bottom: -16px;
+  left: 16px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana;
+  font-size: 30px;
+}
+
+h3 {
+  position: absolute;
+  left: -1000px;
+  text-align: center;
+}
+
+#addHWHeader {
+  position: absolute;
+  left: -1000px;
+}
+
+.addHWInput {
+  position: absolute;
+  left: -1000px;
+  width: 150px;
+}
+
+.addHWText {
+  position: absolute;
+  left: -1000px;
+}
+
+#hwSubmit {
+  position: absolute;
+  left: -1000px;
+  width: 25%;
+}
+
+.item {
+  position: absolute;
+  left: -1000px;
+  font-size: 10px;
+}
+
+.xitem {
+  position: absolute;
+  left: -1000px;
+  font-size: 10px;
+}
+
+#timeImage {
+  left: 160px;
+  bottom: 100px;
+}
+
+#logo {
+  width: 500px;
+  height: 400px;
+}
